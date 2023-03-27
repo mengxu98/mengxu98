@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🤔 I’m currently studying in ECJTU
+- 🔭 I’m interested on proposing methods for gene regulatory network
 
 ![MengXu's github stats](https://github-readme-stats.vercel.app/api?username=mengxu98&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengxu98&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)
