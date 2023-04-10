@@ -2,7 +2,7 @@
 - 🤔 I’m currently studying in ECJTU
 - 🔭 I’m interested on proposing methods for gene regulatory network
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengxu98&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengxu98&layout=compact&show_icons=true)
 
 <!--
 ![MengXu's github stats](https://github-readme-stats.vercel.app/api?username=mengxu98&show_icons=true)
