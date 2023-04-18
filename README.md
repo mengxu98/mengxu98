@@ -2,10 +2,10 @@
 - 🤔 I’m currently studying in ECJTU
 - 🔭 I’m interested on proposing methods for gene regulatory network
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengxu98&theme=transparent)](https://github.com/mengxu98)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengxu98&theme=transparent&layout=compact&show_icons=true)](https://github.com/mengxu98)
 
 <!--
-&layout=compact&show_icons=true
+
 ![MengXu's github stats](https://github-readme-stats.vercel.app/api?username=mengxu98&show_icons=true)
 **mengxu98/mengxu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mengxu98&repo=inferCSN&theme=vue)
