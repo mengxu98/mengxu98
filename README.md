@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🤔 I’m currently studying in ECJTU
-- 🔭 I’m interested on proposing methods for gene regulatory network
+- 🤔 I’m a Phd student in HZAU
+- 🔭 I’m committed to developing gene regulatory network inferring methods from spatiotemporal omics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengxu98&theme=transparent&layout=compact&show_icons=true)](https://github.com/mengxu98)
 
