@@ -2,7 +2,7 @@
 - 🤔 I’m a Phd student in HZAU
 - 🔭 I’m committed to developing gene regulatory network inferring methods from spatiotemporal omics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengxu98&theme=transparent&layout=compact&show_icons=true&hide_border=true&langs_count=10)](https://github.com/mengxu98)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengxu98&theme=transparent&layout=compact&show_icons=true&hide_border=true&langs_count=98)](https://github.com/mengxu98)
 
 <!--
 
