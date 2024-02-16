@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🤔 I’m a Phd student in HZAU
-- 🔭 I’m committed to developing gene regulatory network inferring methods from spatiotemporal omics
+- 🤔 I’m a Phd student in HZAU.
+- 🔭 I’m committed to developing gene regulatory network inferring methods from omics data.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengxu98&theme=transparent&layout=compact&show_icons=true&hide_border=true&langs_count=98)](https://github.com/mengxu98)
 
